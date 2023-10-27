@@ -1,5 +1,5 @@
-open terminal
-Put razorpay secret key and id 
+#open terminal
+#Put razorpay secret key and id in .env file backend
 put mongodb url
 
 cd ecom-backend
