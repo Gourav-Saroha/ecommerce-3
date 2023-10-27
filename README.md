@@ -3,10 +3,12 @@
 put mongodb url
 
 cd ecom-backend
-npm install 
-npm start
+#this is backend folder
+#npm install 
+#npm start
 
 open another terminal
-npm install
-npm start
+#frontend is present in src
+#npm install
+#npm start
 
